@@ -1,7 +1,7 @@
 ## About Me
 Bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences. Background in strategy consulting and early-stage venture capital.
 
-Beyond work, I’m…  
+#### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
 🙌 A lifelong athlete: Grew up playing multiple sports and currently training for a half-marathon  
 ✨ An arts aficionado: Concerts, sitcoms, and photography inspire my passion for storytelling  
