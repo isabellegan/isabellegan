@@ -7,6 +7,11 @@ Bridging the intersection of systems and creativity—where data informs decisio
 ✨ An arts aficionado: Concerts, sitcoms, and photography inspire my passion for storytelling  
 🏔️ Happiest outdoors—whether hiking, chasing sunsets, or stargazing  
 
+## Skills & Technologies
+| Software Engineering | Data Science & Analytics |  Design & UX | Agile Product Development |
+|----------|----------|----------|----------|
+| Placeholder   | Placeholder     | Placeholder| Placeholder|
+
 <!--
 **isabellegan/isabellegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
