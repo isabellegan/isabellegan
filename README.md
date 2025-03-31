@@ -6,11 +6,19 @@ Bridging the intersection of systems and creativity—where data informs decisio
 🙌 A lifelong athlete: Grew up playing multiple sports and currently training for a half-marathon  
 ✨ An arts aficionado: Concerts, sitcoms, and photography inspire my passion for storytelling  
 🏔️ Happiest outdoors—whether hiking, chasing sunsets, or stargazing  
+<br>
 
 ## Skills & Technologies
 | Software Engineering | Data Science & Analytics |  Design & UX | Agile Product Development |
 |----------|----------|----------|----------|
 | Placeholder   | Placeholder     | Placeholder| Placeholder|
+<br>
+
+## Current Projects
+- Analyzing crypto holder psychology to predict and mitigate panic selling using on-chain data, market trends, and social sentiment
+- Building a data-driven bioinformatics solution using AI, data science, and computational biology
+- Developing ML models for RNA design and binding prediction
+<br>
 
 <!--
 **isabellegan/isabellegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
