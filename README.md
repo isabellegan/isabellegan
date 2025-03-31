@@ -20,6 +20,11 @@ Bridging the intersection of systems and creativity—where data informs decisio
 - Developing ML models for RNA design and binding prediction
 <br>
 
+## Contact Me
+📧 **Email:** [isabellejgan@gmail.com](mailto:isabellejgan@gmail.com)  
+💼 **LinkedIn:** [Isabelle Gan](https://www.linkedin.com/in/isabellegan)  
+📁 **Portfolio:** [isabellegan.com](#)
+
 <!--
 **isabellegan/isabellegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
