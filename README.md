@@ -1,5 +1,5 @@
 ## About Me
-Bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences. Background in strategy consulting and early-stage venture capital.
+Bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences. Background in strategy consulting, venture capital, and product.
 
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
@@ -16,8 +16,8 @@ Bridging the intersection of systems and creativity—where data informs decisio
 
 ## Current Projects
 - Analyzing crypto holder psychology to predict and mitigate panic selling using on-chain data, market trends, and social sentiment
-- Building a data-driven bioinformatics solution using AI, data science, and computational biology
 - Developing ML models for RNA design and binding prediction
+- Buil
 <br>
 
 ## Contact Me
