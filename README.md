@@ -12,6 +12,14 @@ Bridging the intersection of systems and creativity—where data informs decisio
 | Software Engineering | Data Science & Analytics |  Design & UX | Agile Product Development |
 |----------|----------|----------|----------|
 | Placeholder   | Placeholder     | Placeholder| Placeholder|
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
+| Column 4 | Column 5 | Column 6 |
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |
 <br>
 
 ## Current Projects
