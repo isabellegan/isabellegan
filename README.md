@@ -22,12 +22,6 @@ Bridging the intersection of systems and creativity—where data informs decisio
 | Row 2    | Data     | Data     |
 <br>
 
-## Current Projects
-- Analyzing crypto holder psychology to predict and mitigate panic selling using on-chain data, market trends, and social sentiment
-- Developing ML models for RNA design and binding prediction
-- Buil
-<br>
-
 ## Contact Me
 📧 **Email:** [isabellejgan@gmail.com](mailto:isabellejgan@gmail.com)  
 💼 **LinkedIn:** [Isabelle Gan](https://www.linkedin.com/in/isabellegan)  
