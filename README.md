@@ -9,13 +9,13 @@ A full stack developer bridging the intersection of systems and creativity—whe
 <br>
 
 ## Skills & Technologies
-🏆 5x Hackathon Winner (Warp, Scotiabank, Sun Life, Rootly, MLH)
+🚀 Full Stack Developer 🏆 | 5x Hackathon Winner | ✨ User-Centric Design  
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
-| **Frontend:** React, JavaScript, Typescript, Next.js, HTML, CSS | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UI/UX & Web Design:** Figma, Penpot, Framer | 
-| **Backend:** Node.js, Express, Python, FastAPI, MySQL | **Data Analysis:** SQL, pandas, NumPy, R | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
-| **Styling & Testing:** Tailwind CSS, Sass, Jest, pytest | **Data Visualization:** Matplotlib, Seaborn, Tableau | **Product Management:** Scrum, Jira, Confluence, Miro, Notion |
-| **APIs:** REST, Postman, GraphQL | **DevOps:** Docker, Jenkins, Streamlit | **User Research & Analytics:** Lucidchart, Qualtrics, PostHog |
+| **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UI/UX & Web Design:** Figma, Penpot, Framer | 
+| **Backend:** Node.js, Express, Python, FastAPI | **Data Analysis:** SQL, pandas, NumPy, R | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
+| **APIs & Testing:** REST, Postman, GraphQL, Jest, pytest | **Data Visualization:** Matplotlib, Seaborn, Tableau | **Product Management:** Scrum, Jira, Confluence, Miro, Notion |
+| **DevOps:** Docker, Jenkins, Streamlit | **Databases & Cloud:** MySQL, MongoDB, Google Cloud | **User Research & Analytics:** Qualtrics, PostHog, Lucidchart |
 
 <br>
 
