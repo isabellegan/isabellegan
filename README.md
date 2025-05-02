@@ -4,22 +4,36 @@ Bridging the intersection of systems and creativity—where data informs decisio
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
 🙌 A lifelong athlete: Grew up playing multiple sports and currently training for a half-marathon  
-✨ An arts aficionado: Concerts, sitcoms, and photography inspire my passion for storytelling  
 🏔️ Happiest outdoors—whether hiking, chasing sunsets, or stargazing  
+
 <br>
 
 ## Skills & Technologies
-| Software Engineering | Data Science & Analytics |  Design & UX | Agile Product Development |
-|----------|----------|----------|----------|
-| Placeholder   | Placeholder     | Placeholder| Placeholder|
-
-| Column 1 | Column 2 | Column 3 |
+🚀 Full Stack Developer | Data Science Background  
+🏆 5x Hackathon Winner (Warp, Scotiabank, Sun Life, Rootly, MLH)
+| Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
-| Row 1    | Data     | Data     |
-| Row 2    | Data     | Data     |
-| Column 4 | Column 5 | Column 6 |
-| Row 1    | Data     | Data     |
-| Row 2    | Data     | Data     |
+| **Frontend:** Typescript, JavaScript, React | Data     | **UI/UX & Web Design:** Figma, Adobe XD, Framer, Penpot | 
+| **Styling:** Tailwind CSS, Sass, CSS | Data     | **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Canva |
+| **Backend:** Python, Node.js, Express | Data     | **Product Management:** Jira, Confluence, Productboard, Miro |
+| **APIs & CI/CD:** Postman, Kong, Jenkins | Data     | **User Research & Analytics:** PostHog, Lucidchart, Airtable |
+
+<br>
+
+[option & table B: insert past design projects/awards]
+
+| **Design** | **Product Development** |
+|----------|----------|
+| **UI/UX & Web Design:** Figma, Adobe XD, Framer, Penpot | **Product Management:** Jira, Confluence, Productboard, Miro, Notion   |
+| **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Canva | **User Research & Analytics:** Mixpanel, PostHog, Lucidchart, Airtable     |
+
+<br>
+
+## Currently Learning
+🌲 ML: Advancing ecosystem resilience through thermal imaging, satellite integration, and machine learning for AI-powered remote wildfire detection  
+💸 Data Science:  
+👩‍💻 Design & Web Development: Personal website  
+
 <br>
 
 ## Contact Me
