@@ -16,13 +16,13 @@ Bridging the intersection of systems and creativity—where data informs decisio
 | **Frontend:** Typescript, JavaScript, React | ML: PyTorch, TensorFlow, scikit-learn, XGBoost     | **UI/UX & Web Design:** Figma, Adobe XD, Framer, Penpot | 
 | **Styling:** Tailwind CSS, Sass, CSS | Data Analysis: SQL, Python (pandas & NumPy), R     | **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Canva |
 | **Backend:** Python, Node.js, Express | Data Visualization: Matplotlib, Seaborn, Tableau   | **Product Management:** Jira, Confluence, Productboard, Miro |
-| **APIs & CI/CD:** Postman, Kong, Jenkins | AI:      | **User Research & Analytics:** PostHog, Lucidchart, Airtable |
+| **APIs & CI/CD:** Postman, Kong, Jenkins | AI: AWS, GCP, OpenAI API     | **User Research & Analytics:** PostHog, Lucidchart, Airtable |
 
 <br>
 
 ## Currently Learning
 🌲 ML: Advancing ecosystem resilience through thermal imaging, satellite integration, and machine learning for AI-powered remote wildfire detection  
-💸 Data Science: Analyzing the behavioral economics of cryptocurrency holding patterns to determine what psychological factors cause investors to retain or abandon assets during market volatility
+💸 Data Science: Analyzing the behavioral economics of cryptocurrency holding patterns to determine what psychological factors cause investors to retain or abandon assets during market volatility  
 👩‍💻 Design & Web Development: Personal website designed and developed from scratch, showcasing professional and personal projects
 
 <br>
