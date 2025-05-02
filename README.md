@@ -1,5 +1,5 @@
 ## About Me
-A full stack developer bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences. Background in strategy consulting, venture capital, and product.
+A business engineer bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences. Background in strategy consulting, venture capital, and product management.
 
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
@@ -9,7 +9,7 @@ A full stack developer bridging the intersection of systems and creativity—whe
 <br>
 
 ## Skills & Technologies
-🚀 Full Stack Developer 🏆 | 5x Hackathon Winner | ✨ User-Centric Design  
+Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Design
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
 | **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UI/UX & Web Design:** Figma, Penpot, Framer | 
@@ -20,9 +20,9 @@ A full stack developer bridging the intersection of systems and creativity—whe
 <br>
 
 ## Currently Learning
-🌲 **ML:** Advancing ecosystem resilience through thermal imaging, satellite integration, and machine learning for AI-powered remote wildfire detection  
-💸 **Data Science:** Analyzing the behavioral economics of cryptocurrency holding patterns to determine what psychological factors cause investors to retain or abandon assets during market volatility  
-👩‍💻 **E2E SDLC:** Designing and developing my personal website from scratch; telling my story with a personal touch
+💸 **Data Science:** Researching investor psychology in crypto markets by combining on-chain transaction data, market volatility metrics, and social sentiment analysis to understand holding behaviours  
+🌲 **ML:** Advancing ecosystem resilience through thermal imaging, satellite integration, and ML for AI-powered early wildfire detection  
+✨ **E2E SDLC:** Crafting my personal website from scratch while exploring UX/UI methodologies to tell my story in a meaningful, intuitive way!
 
 <br>
 
