@@ -20,15 +20,6 @@ Bridging the intersection of systems and creativity—where data informs decisio
 
 <br>
 
-[option & table B: insert past design projects/awards]
-
-| **Design** | **Product Development** |
-|----------|----------|
-| **UI/UX & Web Design:** Figma, Adobe XD, Framer, Penpot | **Product Management:** Jira, Confluence, Productboard, Miro, Notion   |
-| **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Canva | **User Research & Analytics:** Mixpanel, PostHog, Lucidchart, Airtable     |
-
-<br>
-
 ## Currently Learning
 🌲 ML: Advancing ecosystem resilience through thermal imaging, satellite integration, and machine learning for AI-powered remote wildfire detection  
 💸 Data Science:  
