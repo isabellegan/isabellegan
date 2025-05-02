@@ -13,10 +13,10 @@ Bridging the intersection of systems and creativity—where data informs decisio
 🏆 5x Hackathon Winner (Warp, Scotiabank, Sun Life, Rootly, MLH)
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
-| **Frontend:** Typescript, JavaScript, React | Data     | **UI/UX & Web Design:** Figma, Adobe XD, Framer, Penpot | 
-| **Styling:** Tailwind CSS, Sass, CSS | Data     | **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Canva |
-| **Backend:** Python, Node.js, Express | Data     | **Product Management:** Jira, Confluence, Productboard, Miro |
-| **APIs & CI/CD:** Postman, Kong, Jenkins | Data     | **User Research & Analytics:** PostHog, Lucidchart, Airtable |
+| **Frontend:** Typescript, JavaScript, React | ML: PyTorch, TensorFlow, scikit-learn, XGBoost     | **UI/UX & Web Design:** Figma, Adobe XD, Framer, Penpot | 
+| **Styling:** Tailwind CSS, Sass, CSS | Data Analysis: SQL, Python (pandas & NumPy), R     | **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Canva |
+| **Backend:** Python, Node.js, Express | Data Visualization: Matplotlib, Seaborn, Tableau   | **Product Management:** Jira, Confluence, Productboard, Miro |
+| **APIs & CI/CD:** Postman, Kong, Jenkins | AI:      | **User Research & Analytics:** PostHog, Lucidchart, Airtable |
 
 <br>
 
