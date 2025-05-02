@@ -12,10 +12,10 @@ A full stack developer bridging the intersection of systems and creativity—whe
 🏆 5x Hackathon Winner (Warp, Scotiabank, Sun Life, Rootly, MLH)
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
-| **Frontend:** Typescript, JavaScript, React | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UI/UX & Web Design:** Figma, Adobe XD, Framer, Penpot | 
-| **Styling:** Tailwind CSS, Sass, CSS | **Data Analysis:** SQL, pandas, NumPy, R | **Graphic Design:** Adobe Photoshop, Adobe Illustrator, Canva |
-| **Backend:** Python, Node.js, Express | **Data Visualization:** Matplotlib, Seaborn, Tableau | **Product Management:** Jira, Confluence, Productboard, Miro |
-| **APIs & CI/CD:** Postman, Kong, Jenkins | **Cloud & Deployment:** AWS, GCP, Azure, Streamlit | **User Research & Analytics:** PostHog, Lucidchart, Airtable |
+| **Frontend:** React, JavaScript, Typescript, Next.js, HTML, CSS | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UI/UX & Web Design:** Figma, Penpot, Framer | 
+| **Backend:** Node.js, Express, Python, FastAPI, MySQL | **Data Analysis:** SQL, pandas, NumPy, R | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
+| **Styling & Testing:** Tailwind CSS, Sass, Jest, pytest | **Data Visualization:** Matplotlib, Seaborn, Tableau | **Product Management:** Scrum, Jira, Confluence, Miro, Notion |
+| **APIs:** REST, Postman, GraphQL | **DevOps:** Docker, Jenkins, Streamlit | **User Research & Analytics:** Lucidchart, Qualtrics, PostHog |
 
 <br>
 
