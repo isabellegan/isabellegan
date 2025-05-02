@@ -22,8 +22,8 @@ Bridging the intersection of systems and creativity—where data informs decisio
 
 ## Currently Learning
 🌲 ML: Advancing ecosystem resilience through thermal imaging, satellite integration, and machine learning for AI-powered remote wildfire detection  
-💸 Data Science:  
-👩‍💻 Design & Web Development: Personal website  
+💸 Data Science: Analyzing the behavioral economics of cryptocurrency holding patterns to determine what psychological factors cause investors to retain or abandon assets during market volatility
+👩‍💻 Design & Web Development: Personal website designed and developed from scratch, showcasing professional and personal projects
 
 <br>
 
