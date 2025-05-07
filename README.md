@@ -13,7 +13,7 @@ Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Design
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
 | **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UI/UX & Web Design:** Figma, Penpot, Framer | 
-| **Backend:** Node.js, Express, Python, FastAPI | **Data Analysis:** SQL, pandas, NumPy, R | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
+| **Backend:** Node.js, Express, Python, FastAPI | **Data Analysis:** SQL, R, pandas, NumPy | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
 | **APIs & Testing:** REST, Postman, GraphQL, Jest, pytest | **Data Visualization:** Matplotlib, Seaborn, Tableau | **Product Management:** Scrum, Jira, Confluence, Miro, Notion |
 | **DevOps:** Docker, Jenkins, Streamlit | **Databases & Cloud:** MySQL, MongoDB, Google Cloud | **User Research & Analytics:** Qualtrics, PostHog, Lucidchart |
 
