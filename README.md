@@ -20,8 +20,8 @@ Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Design
 <br>
 
 ## Currently Learning
+🌲 **AI/ML:** Advancing ecosystem resilience through thermal imaging, satellite integration, and ML for AI-powered early wildfire detection
 💸 **Data Science:** Researching investor psychology in crypto markets by combining on-chain transaction data, market volatility metrics, and social sentiment analysis to understand holding behaviours  
-🌲 **ML:** Advancing ecosystem resilience through thermal imaging, satellite integration, and ML for AI-powered early wildfire detection  
 ✨ **E2E SDLC:** Crafting my personal website from scratch while exploring UX/UI methodologies to tell my story in a meaningful, intuitive way!
 
 <br>
