@@ -9,7 +9,7 @@ A full stack engineer bridging the intersection of systems and creativity—wher
 <br>
 
 ## Skills & Technologies
-Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Design
+Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Designer
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
 | **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UX/UI & Web Design:** Figma, Penpot, Framer | 
@@ -20,9 +20,11 @@ Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Design
 <br>
 
 ## Currently Learning
-🌲 **AI/ML:** Advancing ecosystem resilience through thermal imaging, satellite integration, and ML for AI-powered early wildfire detection
-💸 **Data Science:** Researching investor psychology in crypto markets by combining on-chain transaction data, market volatility metrics, and social sentiment analysis to understand holding behaviours  
-✨ **E2E SDLC:** Crafting my personal website from scratch while exploring UX/UI methodologies to tell my story in a meaningful, intuitive way!
+💪 **Preventative Health x Digital Biomarker Analysis:** Delivering personalized, preventative care insights by analyzing multimodal wearable and qualitative data using AI-driven trend detection and adaptive feedback loops  
+
+🧠 **Clinical ML x Biomedical Risk Modelling:** Predicting Alzheimer’s onset by integrating longitudinal clinical, genetic, and biomarker data with supervised ML for personalized early risk assessment  
+
+⚡️ **EV Planning x Geospatial Intelligence:** Accelerating EV infrastructure rollout with a geospatial engine that recommends and ranks potential charging sites based on configurable infrastructure, planning, and traffic criteria
 
 <br>
 
