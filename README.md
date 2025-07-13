@@ -1,5 +1,5 @@
 ## About Me
-A business engineer bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences.
+A full stack engineer bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences.
 
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
@@ -12,8 +12,8 @@ A business engineer bridging the intersection of systems and creativity—where 
 Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Design
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
-| **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UI/UX & Web Design:** Figma, Penpot, Framer | 
-| **Backend:** Node.js, Express, Python, FastAPI | **Data Analysis:** SQL, R, pandas, NumPy | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
+| **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UX/UI & Web Design:** Figma, Penpot, Framer | 
+| **Backend:** Node.js, Express, Python, FastAPI, Java | **Data Analysis:** pandas, NumPy, SQL | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
 | **APIs & Testing:** REST, Postman, GraphQL, Jest, pytest | **Data Visualization:** Matplotlib, Seaborn, Tableau | **Product Management:** Scrum, Jira, Confluence, Miro, Notion |
 | **DevOps:** Docker, Jenkins, Streamlit | **Databases & Cloud:** MySQL, MongoDB, Google Cloud | **User Research & Analytics:** Qualtrics, PostHog, Lucidchart |
 
