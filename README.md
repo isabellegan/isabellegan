@@ -12,7 +12,7 @@ A UX engineer bridging the intersection of systems and creativity—where data i
 Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Designer
 | Software Engineering | AI/ML & Data Science | Design & Product Development |
 |----------|----------|----------|
-| **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UX/UI & Web Design:** Figma, Penpot, Framer | 
+| **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass, Storybook | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UX/UI & Web Design:** Figma, Penpot, Framer | 
 | **Backend:** Node.js, Express, Python, FastAPI, Java | **Data Analysis:** pandas, NumPy, SQL | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
 | **APIs & Testing:** REST, Postman, GraphQL, Jest, pytest | **Data Visualization:** Matplotlib, Seaborn, Tableau | **Product Management:** Scrum, Jira, Confluence, Miro, Notion |
 | **DevOps:** Docker, Jenkins, Streamlit | **Databases & Cloud:** MySQL, MongoDB, Google Cloud | **User Research & Analytics:** Qualtrics, PostHog, Lucidchart |
