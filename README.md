@@ -1,7 +1,7 @@
 ## About Me
 A UX engineer bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences.
 
-Currently studying Cognitive Science, Computing, and Psychology at the University of Waterloo 💭
+Currently studying Cognitive Science, Computing, and Psychology at the University of Waterloo! 💭
 
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
