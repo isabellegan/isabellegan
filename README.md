@@ -1,5 +1,5 @@
 ## About Me
-A UX engineer bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences.
+A UX engineer bridging the intersection of design and technology—where beautiful interfaces meet robust systems, where user needs drive technical decisions.
 
 Currently studying Cognitive Science, Computing, and Psychology at the University of Waterloo! 💭
 
