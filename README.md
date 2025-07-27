@@ -1,7 +1,5 @@
 ## About Me
-A UX engineer bridging the intersection of design and technology—where beautiful interfaces meet robust systems, where user needs drive technical decisions.
-
-Currently studying Cognitive Science, Computing, and Psychology at the University of Waterloo! 💭
+A UX engineer bridging design and development by building tools that make designers and developers faster, happier, and more connected.
 
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
@@ -11,8 +9,8 @@ Currently studying Cognitive Science, Computing, and Psychology at the Universit
 <br>
 
 ## Skills & Technologies
-Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Designer
-| Software Engineering | AI/ML & Data Science | Design & Product Development |
+Full Stack Engineer 🚀 5x Hackathon Winner 👩‍💻 User-Centric Developer
+| Software Engineering 💻 | AI/ML & Data Science 📈 | Design & Product Development 🤩 |
 |----------|----------|----------|
 | **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Sass | **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost | **UX/UI & Web Design:** Figma, Storybook, Penpot, Framer | 
 | **Backend:** Node.js, Express, Python, FastAPI, Java | **Data Analysis:** pandas, NumPy, SQL | **Graphic Design:** Adobe Photoshop, Affinity Photo, Canva |
@@ -33,7 +31,7 @@ Full Stack Developer 🚀 5x Hackathon Winner 🧑‍💻 User-Centric Designer
 ## Contact Me
 📧 **Email:** [isabellejgan@gmail.com](mailto:isabellejgan@gmail.com)  
 💼 **LinkedIn:** [Isabelle Gan](https://www.linkedin.com/in/isabellegan)  
-📁 **Portfolio:** [isabellegan.com](#)
+📁 **Personal Website:** [isabellegan.com](#)
 
 <!--
 **isabellegan/isabellegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
