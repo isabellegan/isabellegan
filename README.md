@@ -1,5 +1,5 @@
 ## About Me
-A UX engineer bridging design and development by building tools that make designers and developers faster, happier, and more connected.
+A UX engineer bridging design and development—building tools that make designers and developers faster, happier, and more connected.
 
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
