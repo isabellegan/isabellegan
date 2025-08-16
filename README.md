@@ -1,5 +1,5 @@
 ## About Me
-A GTM engineer bridging the intersection of systems and creativity—where data informs decisions, and design shapes experiences.
+A GTM engineer bridging the intersection of systems and creativity—where data informs decisions, and hypotheses shapes experiments.
 
 #### Beyond work, I’m…
 🌎 An adventurer at heart: Living in Toronto, Montréal, and Singapore sparked my love for travel and learning new languages  
